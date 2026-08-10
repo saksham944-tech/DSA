@@ -1,4 +1,5 @@
 class Solution {
+//O(n)
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
