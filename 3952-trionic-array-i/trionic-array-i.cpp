@@ -1,5 +1,6 @@
 class Solution {
 public:
+//hehe
     bool isTrionic(vector<int>& nums) {
         int n = nums.size();
         if(n<4){
